@@ -23,5 +23,6 @@ To run any solution locally:
 | Problem | Difficulty | Solution | Verdict |
 | :--- | :--- | :--- | :--- |
 | [617A - Elephant](https://codeforces.com/problemset/problem/617/A) | 800 | [Java](./617A/Main.java) | ✅ Accepted |
+| [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [Java](./546A/Main.java) | ✅ Accepted |
 
 *(I will update this table as I solve more problems)*
