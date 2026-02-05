@@ -26,5 +26,6 @@ To run any solution locally:
 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | [Java](./546A/Main.java) | ✅ Accepted |
 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | [Java](./791A/Main.java) | ✅ Accepted |
 | [96A - Football](https://codeforces.com/problemset/problem/96/A) | 900 | [Java](./96A/Main.java) | ✅ Accepted |
+| [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [Java](./71A/Main.java) | ✅ Accepted |
 
 *(I will update this table as I solve more problems)*
