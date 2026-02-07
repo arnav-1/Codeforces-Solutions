@@ -28,5 +28,5 @@ To run any solution locally:
 | [96A - Football](https://codeforces.com/problemset/problem/96/A) | 900 | [Java](./96A/Main.java) | ✅ Accepted |
 | [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | [Java](./71A/Main.java) | ✅ Accepted |
 | [160A - Twins](https://codeforces.com/problemset/problem/160/A) | 900 | [Java](./160A/Main.java) | ✅ Accepted |
-| [2167A - Square?](https://codeforces.com/problemset/problem/PROBLEM_ID) | 800 | [Java](./PROBLEM_ID/Main.java) | ✅ Accepted |
+| [2167A - Square?](https://codeforces.com/problemset/problem/PROBLEM_ID) | 800 | [Java](./PROBLEM_ID/Main.java) | ✅ Accepted | [34B - Sale](https://codeforces.com/problemset/problem/34/B) | 900 | [Java](./34B/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
