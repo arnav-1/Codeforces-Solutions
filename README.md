@@ -31,4 +31,5 @@ To run any solution locally:
 | [2167A - Square?](https://codeforces.com/problemset/problem/PROBLEM_ID) | 800 | [Java](./PROBLEM_ID/Main.java) | ✅ Accepted | 
 |[34B - Sale](https://codeforces.com/problemset/problem/34/B) | 900 | [Java](./34B/Main.java) | ✅ Accepted |
 | [318A - Even Odds](https://codeforces.com/problemset/problem/318/A) | 900 | [Java](./318A/Main.java) | ✅ Accepted |
+| [580A - Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 900 | [Java](./580A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
