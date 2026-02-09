@@ -32,4 +32,5 @@ To run any solution locally:
 |[34B - Sale](https://codeforces.com/problemset/problem/34/B) | 900 | [Java](./34B/Main.java) | ✅ Accepted |
 | [318A - Even Odds](https://codeforces.com/problemset/problem/318/A) | 900 | [Java](./318A/Main.java) | ✅ Accepted |
 | [580A - Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 900 | [Java](./580A/Main.java) | ✅ Accepted |
+| [337A - Puzzles](https://codeforces.com/problemset/problem/337/A) | 900 | [Java](./337A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
