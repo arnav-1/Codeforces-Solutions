@@ -33,4 +33,5 @@ To run any solution locally:
 | [318A - Even Odds](https://codeforces.com/problemset/problem/318/A) | 900 | [Java](./318A/Main.java) | ✅ Accepted |
 | [580A - Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 900 | [Java](./580A/Main.java) | ✅ Accepted |
 | [337A - Puzzles](https://codeforces.com/problemset/problem/337/A) | 900 | [Java](./337A/Main.java) | ✅ Accepted |
+| [381A - Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | 800 | [Java](./381A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
