@@ -35,4 +35,5 @@ To run any solution locally:
 | [337A - Puzzles](https://codeforces.com/problemset/problem/337/A) | 900 | [Java](./337A/Main.java) | ✅ Accepted |
 | [381A - Sereja and Dima](https://codeforces.com/problemset/problem/381/A) | 800 | [Java](./381A/Main.java) | ✅ Accepted |
 | [1399A - Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | 900 | [Java](./1399A/Main.java) | ✅ Accepted |
+| [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | [Java](./977A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
