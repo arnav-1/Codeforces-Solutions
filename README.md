@@ -38,4 +38,5 @@ To run any solution locally:
 | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | [Java](./977A/Main.java) | ✅ Accepted |
 | [1030A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | 800 | [Java](./1030A/Main.java) | ✅ Accepted |
 | [677A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | 800 | [Java](./677A/Main.java) | ✅ Accepted |
+| [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [Java](./734A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
