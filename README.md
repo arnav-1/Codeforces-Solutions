@@ -42,4 +42,5 @@ To run any solution locally:
 | [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | 800 | [Java](./734A/Main.java) | ✅ Accepted |
 | [41A - Translation](https://codeforces.com/problemset/problem/41/A) | 800 | [Java](./41A/Main.java) | ✅ Accepted |
 | [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | 800 | [Java](./266A/Main.java) | ✅ Accepted |
+| [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 800 | [Java](./281A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
