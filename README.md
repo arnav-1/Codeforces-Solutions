@@ -43,4 +43,5 @@ To run any solution locally:
 | [41A - Translation](https://codeforces.com/problemset/problem/41/A) | 800 | [Java](./41A/Main.java) | ✅ Accepted |
 | [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | 800 | [Java](./266A/Main.java) | ✅ Accepted |
 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 800 | [Java](./281A/Main.java) | ✅ Accepted |
+| [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 800 | [Java](./110A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
