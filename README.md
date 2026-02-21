@@ -45,4 +45,5 @@ To run any solution locally:
 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 800 | [Java](./281A/Main.java) | ✅ Accepted |
 | [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 800 | [Java](./110A/Main.java) | ✅ Accepted |
 | [116A - Tram](https://codeforces.com/problemset/problem/116/A) | 800 | [Java](./116A/Main.java) | ✅ Accepted |
+| [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | [Java](./263A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
