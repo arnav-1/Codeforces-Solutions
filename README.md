@@ -47,4 +47,5 @@ To run any solution locally:
 | [116A - Tram](https://codeforces.com/problemset/problem/116/A) | 800 | [Java](./116A/Main.java) | ✅ Accepted |
 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | [Java](./263A/Main.java) | ✅ Accepted |
 | [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | 800 | [Java](./282A/Main.java) | ✅ Accepted |
+| [231A - Team](https://codeforces.com/problemset/problem/231/A) | 800 | [Java](./231A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
