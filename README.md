@@ -48,4 +48,5 @@ To run any solution locally:
 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | [Java](./263A/Main.java) | ✅ Accepted |
 | [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | 800 | [Java](./282A/Main.java) | ✅ Accepted |
 | [231A - Team](https://codeforces.com/problemset/problem/231/A) | 800 | [Java](./231A/Main.java) | ✅ Accepted |
+| [50A - Domino piling](https://codeforces.com/problemset/problem/50/A) | 800 | [Java](./50A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
