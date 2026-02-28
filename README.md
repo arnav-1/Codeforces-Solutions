@@ -50,6 +50,6 @@ To run any solution locally:
 | [231A - Team](https://codeforces.com/problemset/problem/231/A) | 800 | [Java](./231A/Main.java) | ✅ Accepted |
 | [50A - Domino piling](https://codeforces.com/problemset/problem/50/A) | 800 | [Java](./50A/Main.java) | ✅ Accepted |
 | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | 800 | [Java](./4A/Main.java) | ✅ Accepted |
-| [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | 800 | [Java](./158A/Main.java) | ✅ Solved Locally |
-| [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 800 | [Java](./467A/Main.java) | ✅ Solved Locally |
+| [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | 800 | [Java](./158A/Main.java) | ✅ Accepted |
+| [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 800 | [Java](./467A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
