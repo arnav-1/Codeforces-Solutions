@@ -53,4 +53,5 @@ To run any solution locally:
 | [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | 800 | [Java](./158A/Main.java) | ✅ Accepted |
 | [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | 800 | [Java](./467A/Main.java) | ✅ Accepted |
 | [486A - Calculating Function](https://codeforces.com/problemset/problem/486/A) | 800 | [Java](./486A/Main.java) | ✅ Accepted  |
+| [228A - Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 800 | [Java](./228A/Main.java) | ✅ Accepted |
 *(I will update this table as I solve more problems)*
